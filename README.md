@@ -1,4 +1,5 @@
 News Application 
+Note: Detailed explanation can be found here: https://technoproh-my.sharepoint.com/:w:/r/personal/krishnakumar_k_robosoftin_com/Documents/News%20Application.docx?d=w3c0f64c3f8c144bd968e40eae5d1f8a5&csf=1&web=1&e=Neur5a
 
 News application built using Jetpack compose for UI, kotlin coroutines and flow async operations, Retrofit and okhttp libraries for network calls, Coil for async image loading, Hilt for dependency injection, Junit, mockk, corutinesTest as testing libraries. Turbine can be used for testing coroutine flows 
 
