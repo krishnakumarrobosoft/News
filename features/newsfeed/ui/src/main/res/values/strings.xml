@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home_top_section">Top Headlines</string>
+    <string name="title_home_bottom_section">Business Headlines</string>
+    <string name="favorite_error_message">Something went wrong</string>
+    <string name="content_unavailable">Content unavailable</string>
+</resources>
