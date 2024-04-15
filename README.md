@@ -4,11 +4,13 @@ News application built using Jetpack compose for UI, kotlin coroutines and flow 
 
 This application is based on clean architecture principles.  
 
-
+ 
 
 Module structure is as follows 
 
 Module structure 
+
+ 
 
 - business 
 
@@ -92,9 +94,9 @@ Module structure
 
              - main 
 
-        - ui (screen) 
+        - ui 
 
-           - main (if mobile and television can share/reuse parts of their ui) 
+           - main
 
   - common 
 
@@ -108,14 +110,13 @@ Module structure
 
 	- di 
 
-	- main (Generic util classes)
-    
-   - navigation 
+	- main (Generic util classes) 
+
+- navigation 
 
 	- api(model classes for compose navigation) 
 
- 	- global ( compose global navigation related logic) 
-
+ 	- global ( compose global navigation related logic)
 	       - presentation 
 
 		- main 
@@ -224,11 +225,11 @@ Navigation - contains all UI and presentation layers for app navigation, this in
 
  
 
-How to run the app 
+**How to run the app **
 
-Checkout the code from this repo  
+- Checkout the code from this repo  
 
-Run debug variant 
+- Run debug variant 
 
 This application is built using android studio HedgeHog, Java 17 environment 
 
