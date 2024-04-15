@@ -108,9 +108,9 @@ Module structure
 
 	- di 
 
-	- main (Generic util classes) 
-
-Navigation 
+	- main (Generic util classes)
+    
+   - navigation 
 
 	- api(model classes for compose navigation) 
 
